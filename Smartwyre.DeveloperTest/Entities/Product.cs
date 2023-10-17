@@ -1,4 +1,6 @@
-﻿namespace Smartwyre.DeveloperTest.Types;
+using Smartwyre.DeveloperTest.Enums;
+
+namespace Smartwyre.DeveloperTest.Entities;
 
 public class Product
 {
